@@ -23,6 +23,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39800#The-Adventures-of-Dick-TrevanionA-Story-of-Eighteen-Hundred-and-Four
 gutenberg_issued: '2013-06-01'
 gutenberg_type: Text
 identifiers:
