@@ -1,0 +1,40 @@
+_repo: The-Adventures-of-Dick-TrevanionA-Story-of-Eighteen-Hundred-and-Four_39800
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, H. W. (H. William)
+    - Rainey, William
+    - Rainey, W.
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 39800-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_issued: '2013-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- 19th century -- Juvenile fiction'
+title: 'The Adventures of Dick Trevanion: A Story of Eighteen Hundred and Four'
+url: http://www.gutenberg.org/ebooks/39800
